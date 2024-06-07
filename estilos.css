@@ -1,0 +1,16 @@
+.navbar-brand h1 {
+    display: inline;
+    margin-left: 10px;
+    font-size: 1.5rem; /* Ajusta el tamaño del texto según sea necesario */
+}
+
+.navbar-brand {
+    position: relative;
+    z-index: 1;
+}
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.5rem; /* Ajusta el tamaño del texto según sea necesario */
+}
