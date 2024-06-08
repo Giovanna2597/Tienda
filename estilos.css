@@ -14,3 +14,8 @@
     transform: translateX(-50%);
     font-size: 1.5rem; /* Ajusta el tamaño del texto según sea necesario */
 }
+ 
+.logo-link img {
+    width: 100%; /* Ajusta el ancho de la imagen al 100% de su contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
